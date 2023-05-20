@@ -1,0 +1,9 @@
+Toolbar
+    -image 
+    -toolbar left div
+    -toolbar right div
+
+
+Body (grey)
+    --sidebar(links to other google apps)
+    --Text-Editor(white)
