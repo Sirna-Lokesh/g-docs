@@ -11,11 +11,21 @@ Design of Application
     --fileInfo Component
     --userInfo Component
 
+
+
+
   --Body component -
     --formatting buttons
+
+
     --SideBar component
-        --links to all google applications
+       --links to all google applications
+
+
+       
     --Text Editor component
+
+
 
 for state management i have used redux toolkit (a state management library)
 i have added toggle visibility functionality to sidebar , if you click on the backarrow , then the side disappears , and if you want that back again , please click on the sidebar button inside toolbar , i have did this using redux toolkit .
