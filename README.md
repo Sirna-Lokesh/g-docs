@@ -4,6 +4,8 @@ TO RUN THE PROJECT IN DEV MODE - NPM RUN START (OR) NPM START
 TO CREATE DEV BUILD - NPM RUN DEV 
 
 Design of Application
+
+
 (--App
   (--ToolBar Component
     --logo
@@ -20,6 +22,7 @@ Design of Application
        --links to all google applications)
 
     (--Text Editor component))
+
 
 
 
